@@ -1,0 +1,24 @@
+{
+  "schema": "maya-manual-library-v1",
+  "updated_at": "2026-10-27T02:05:04.045444+00:00",
+  "items": [
+    {
+      "name": "3NUyB.jpg",
+      "sha256": "3b2e72340ed28f43eba6b1e5d3841425e28365de2d169e50f00068684f02c58a",
+      "source_sha256": "3b2e72340ed28f43eba6b1e5d3841425e28365de2d169e50f00068684f02c58a",
+      "url": "https://raw.githubusercontent.com/aiariyaeli-arch/maya-hale-public-media/main/manual-library/3b2e72340ed28f43eba6b1e5d3841425e28365de2d169e50f00068684f02c58a.jpg",
+      "repository_path": "manual-library/3b2e72340ed28f43eba6b1e5d3841425e28365de2d169e50f00068684f02c58a.jpg",
+      "exported_at": "2026-10-27T02:05:04.045429+00:00",
+      "review_status": "HUMAN_APPROVED_FICTIONAL_ADULT_NONEXPLICIT",
+      "public_verification": {
+        "http_status": 200,
+        "verified_at": "2026-10-27T02:05:04.045387+00:00",
+        "sha256_matches": true
+      },
+      "attribution": "Created with Grok",
+      "width": 784,
+      "height": 1168
+    }
+  ],
+  "consumer_note": "Use only listed, HTTPS-verified public assets; preserve provenance metadata and include attribution. No scheduling is performed by this tool."
+}
