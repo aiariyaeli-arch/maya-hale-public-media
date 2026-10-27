@@ -1,2 +1,6 @@
 # maya-hale-public-media
-Public AI-generated images of the fictional virtual creator Maya Hale (for Instagram).
+
+Public media for the Instagram account of **Maya Hale**, a fictional virtual creator.
+
+**All images in this repository are AI-generated and show a fictional character, not a real person.**
+Any resemblance to real persons is coincidental. Images are non-explicit and intended for public Instagram posts.
